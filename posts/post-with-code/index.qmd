@@ -1,5 +1,5 @@
 ---
-title: "How to Scrape a Website with Scrapy: A Beginner’s Guide"
+
 author:
   - name: Chukwunonso Ebele-Muolokwu
   - date: "2025-01-20"
@@ -12,9 +12,9 @@ format:
     toc: true
 ---
 
+# How to Scrape a Website with Scrapy: A Beginner’s Guide
 
-
-![Altered Image of Scrapy and AOT Characters](../../report/images/1_ZnX_A2dZrSUi045-JyAKkg.jpg)
+![Altered Image of Scrapy and AOT Characters](report/images/1_ZnX_A2dZrSUi045-JyAKkg.jpg)
 
 # Introduction
 
