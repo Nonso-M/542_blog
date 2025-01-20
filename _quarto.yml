@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "How to scrape a website with scrapy"
+  # title: "How to scrape a website with scrapy"
   navbar:
     left:
       - href: index.qmd
