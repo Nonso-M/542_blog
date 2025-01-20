@@ -12,11 +12,10 @@ format:
     toc: true
 ---
 
-# How to Scrape a Website with Scrapy: A Beginner’s Guide
+# Introduction
 
 ![Altered Image of Scrapy and AOT Characters](report/images/1_ZnX_A2dZrSUi045-JyAKkg.jpg)
 
-# Introduction
 
 If you’re new to web scraping and want a powerful tool to automate your data collection tasks, look no further than Scrapy. This Python-based framework makes it easy to crawl websites, extract data, and store it in your desired format. In this blog post, we’ll walk you through scraping a website with Scrapy step by step. This part focuses on setting up a Scrapy project locally and running it in the terminal. Most scrapy projects are ran from the terminal using the command scrapy crawlIf you are new to Scrapy and also an Attack on Titan fan, well, today is your day!
 
