@@ -12,7 +12,9 @@ format:
     toc: true
 ---
 
-![Altered Image of Scrapy and AOT Characters](report/images/1_ZnX_A2dZrSUi045-JyAKkg.jpg)
+
+
+![Altered Image of Scrapy and AOT Characters](../../report/images/1_ZnX_A2dZrSUi045-JyAKkg.jpg)
 
 # Introduction
 
