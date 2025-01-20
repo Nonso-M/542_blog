@@ -5,11 +5,10 @@ author:
   - Publish Date: 18th January 2025
 
 format:
-  pdf:
+  html:
+    theme: cosmo
+    css: styles.css
     toc: true
-    toc-depth: 4
-    number-sections: true
-    output-dir: "."
 ---
 
 # How to Scrape a Website with Scrapy: A Beginner’s Guide
