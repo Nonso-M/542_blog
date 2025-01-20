@@ -3,18 +3,18 @@ project:
   output-dir: docs
 
 website:
-  title: "How to Scrape a Website with Scrapy"
+  title: "How to scrape a website with scrapy"
   navbar:
-    right:
+    left:
+      - href: index.qmd
+        text: Home
       - about.qmd
-      - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+
 format:
   html:
     theme: cosmo
     css: styles.css
+    toc: true
 
 
 
